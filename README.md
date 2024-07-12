@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Slowly moving to [![Codeberg.org](https://codeberg.org/assets/img/favicon.png "Codeberg")](https://codeberg.org/olivierlm/)
+Slowly moving to [Codeberg.org](https://codeberg.org/olivierlm/)
 <!--
 **olivierlemoal/olivierlemoal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
